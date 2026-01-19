@@ -1,0 +1,564 @@
+fecha,hora,latitud,longitud,profundidad,magnitud,intensidad,referencia,reporte_acelerometrico_pdf
+,,-5.65,-77.08,41,4.9,"IV Nueva Cajamarca; III Moyobamba, Jumbilla, Mendoza; II Lamas, Chachapoyas",41 km al Nor-Este de Nueva Cajamarca,https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190001_20190103_211148.pdf
+,,-2.95,-76.47,140,4.7,,"10 km al Oeste-SO de Pastaza, Alto Amazonas - Loreto",
+,,-7.79,-71.24,517,7,"IV Esperanza, Pucallpa; III Aguaytia, Pasco; II Huanuco, Oxapampa, Satipo, Chanchamayo, Yurimaguas, Huancayo, Cusco, Arequipa","229 km N-NO de Esperanza, Purus - Ucayali.",
+,,-16.14,-73.11,39,3.9,II Ocoña,"32 km al N de Ocoña, Camana - Arequipa",
+,,-15.28,-70.98,10,5,"V Ocuviri; IV Umachiri, Condoroma; III Huayhuahuasi, Ayaviri, Lampa; II Puno","14 km al S-SO de Ocuviri, Lampa - Puno",
+,,-12.45,-75.38,103,4,,"17 km al Sur-Oeste de Huasicancha, Huancayo - Junin",
+,,-4.83,-80.58,55,4,,"14 km al Este-NE de Sullana, Sullana - Piura",
+,,-19.82,-70.05,101,4.9,II-III Tacna,"202 km al Sur de Tacna, Tacna - Tacna",
+,,-10.68,-78.52,46,4.7,"III Huarmey; II Barranca, Puerto Supe, Casma, Huacho","79 km al Sur-SO de Huarmey, Huarmey - Ancash",
+,,-19.93,-69.62,116,5.1,II-III Tacna,223 km al Sur-SE de Tacna,
+,,-15.29,-70.94,23,3.8,II Ocuviri,"14 km al S de Ocuviri, Lampa - Puno",
+,,-15.26,-70.95,17,3.3,II Ocuviri,11 km al S-SO de Ocuviri,
+,,-14.62,-75.53,35,4.1,,"39 km al Oeste-SO de Palpa, Palpa - Ica",
+,,-9.48,-75.87,127,4,,"26 km al Sur-Este de Tingo Maria, Leoncio Prado - Huanuco",
+,,-4.7,-74.13,19,5.8,"V Nauta, III-IV Iquitos","66 km al Oeste-SO de Nauta, Loreto - Loreto",
+,,-4.59,-74.18,10,4.4,,"68 km  al Oeste de Nauta, Loreto - Loreto",
+,,-11.99,-75.63,10,3.9,III Jauja,"30 km al Sur-SO de Jauja, Jauja - Junin",
+,,-9.92,-78.9,37,4.5,"II Casma, Chimbote, Huarmey","83 km al SO de Casma, Casma - Ancash",
+,,-15.3,-70.96,12,4,III Ocuviri,"16 km al Sur-SO de Ocuviri, Lampa-Puno",
+,,-15.23,-70.92,15,3.6,II Ocuviri,"07 km al Sur de Ocuviri, Lampa-Puno",
+,,-15.2,-70.91,14,3.3,II Ocuviri,"03 km al Sur-SE de Ocuviri, Lampa-Puno",
+,,-15.26,-70.94,16,3.3,II Ocuviri,"11 km al Sur-SO de Ocuviri, Lampa - Puno",
+,,-3.16,-80.35,133,4,,"38 km al Norte-NO de Zarumilla, Zarumilla-Tumbes",
+,,-14.73,-73.5,13,3.6,II-III Pampamarca,"20 km al Sur-SE de Pampamarca, Parinacochas - Ayacucho",
+,,-14.75,-73.49,13,3.4,II Pampamarca,"22 km al Sur de Pampamarca, Parinacochas - Ayacucho",
+,,-15.66,-71.92,12,3.5,II Cabanaconde,"7 km al Este-SE de Cabanaconde, Caylloma - Arequipa",
+,,-15.94,-71.93,135,4.3,,"19 km al Sur-SO de Volcan Sabancaya, Caylloma - Arequipa",
+,,-13.29,-76.48,57,4.1,"II San Vicente de Cañete, Chincha","26 km al Sur-SO de San Vicente de Cañete, Cañete - Lima",
+,,-14.86,-72,12,3.8,"II Santo Tomas, Huayhuahuasi","46 km al Sur-SE de Santo Tomas, Chumbivilcas - Cusco",
+,,-14.87,-72.32,125,4,,"53 km al Sur-SO de Santo Tomás, Chumbivilcas-Cusco",
+,,-17.74,-70.6,80,4.3,II Locumba,"22 km al Sur-Este de Locumba, Jorge Basadre-Tacna",
+,,-9.18,-79.48,29,5.1,"IV Chimbote; III Trujillo, Salaverry, Samanco, Casma, Ascope; II Huarmey, Yungay","98 km al Oeste de Chimbote, Santa - Ancash",
+,,-3.33,-76.93,139,5.8,"III Pastaza, II Sta María de Nieva","76 km al SO de Pastaza, Alto amazonas - Loreto",
+,,-10.48,-74.91,134,4.4,,"22 km al S-SE de Puerto Bermudez, Oxapampa -  Pasco",
+,,-11.91,-77.02,84,3.7,II Lima,"14 km al N de Lima, Lima - Lima",
+,,-14.66,-71.6,16,3.5,"II Huayhuahuasi, Coporaque","8 km al Oeste de Huayhuahuasi, Espinar - Cusco",
+,,-5.61,-77,128,4.7,II Nueva Cajamarca,"47 km al N de Moyobamba, Moyobamba - San Martin",
+,,-8.93,-80.01,34,4,,"140 km al Sur-Oeste de Salaverry, Trujillo-La Libertad",
+,,-10.87,-78.49,31,4,,"81 km al Oeste de Barranca, Barranca-Lima",
+,,-12.67,-75.17,97,4,,"26 km al Oeste-NO de Huancavelica, Huancavelica - Huancavelica",
+,,-9.34,-79.3,27,4.1,II Chimbote,"83 km al Oeste-SO de Chimbote, Santa - Ancash",
+,,-17.95,-70.03,116,4,,"24 km al Este-NE  de Tacna, Tacna - Tacna",
+,,-4.47,-77.71,37,4.1,,"22 km al Nor-Este de Sta. Maria de Nieva, Condorcanqui-Amazonas",
+,,-11.67,-76.32,16,3.4,II San Mateo,"09 km al Norte-NO de San Mateo, Huarochirí - Lima",
+,,-14.55,-76.53,22,4.2,,"100 km al Sur-SO de Pisco, Pisco - Ica",
+,,-14.59,-76.58,10,4.7,III Pisco,"106 km al Sur-SO de Pisco, Pisco - Ica",
+,,-14.76,-72,104,4.3,,"36 km al Sur-SE de Santo Tomas, Chumbivilcas - Cusco",
+,,-14.52,-76.52,21,4.3,II Pisco,"97 km al Sur-SO de Pisco, Pisco - Ica",
+,,-9.56,-79.13,44,3.8,II Chimbote,"80 km al SO de Chimbote, Santa - Ancash",
+,,-9.54,-74.73,18,5.3,V  Puerto Inca,"31 km al Sur-Este de Puerto Inca, Puerto Inca - Huánuco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190050_20190124_155559.pdf
+,,-14.67,-71.58,18,4,III Huayhuahuasi,"6 km al Oeste de Huayhuahuasi, Espinar - Cusco",
+,,-14.73,-75.7,56,6,V Palpa,"60 km al Oeste-SO de Palpa, Palpa- Ica",
+,,-9.28,-78.96,61,4.2,III Chimbote,48 km al Oeste-SO de Chimbote,
+,,-14.69,-75.64,45,4.5,III Palpa,"53 km al Oeste-SO de Palpa, Palpa - Ica",
+,,-15.23,-71.7,169,4.7,,"42 km al Norte-NE de Madrigal, Caylloma, Arequipa",
+,,-9.53,-74.74,20,4,II-III Puerto Inca,"30 km al Sur-Este de Puerto Inca, Puerto Inca - Huánuco",
+,,-14.68,-71.58,10,4,III-IV Huayhuahuasi,"5 km al Oeste de Huayhuahuasi, Espinar - Cusco",
+,,-15.5,-73.12,107,4.2,,"39 km al Nor-Este de Caravelí, Caravelí-Arequipa",
+,,-7.81,-74.59,168,4.2,,62 km al Norte de Pucallpa-Ucayali,
+,,-15.61,-72.62,125,5.4,III-IV Viraco,"11 km al Oeste de Viraco, Castilla - Arequipa",
+,,-10.87,-78.47,40,4,,"79 km al Oeste de Barranca, Barranca-Lima",
+,,-2.48,-77.48,19,4.3,,"129 km al Oeste-NO de Pastaza, Alto Amazonas-Loreto",
+,,-9.73,-75.73,22,3.9,II Huánuco,"31 km al Nor-Este de Panao, Pachitea-Huánuco",
+,,-9.05,-79.16,60,4.1,II Chimbote,"62 km al Oeste de Chimbote, Santa - Ancash",
+,,-2.76,-78.8,146,4.8,,"183 km al Este-NE de Zarumilla, Zarumilla - Tumbes",
+,,-14.67,-71.6,8,3.4,II Huayhuahuasi,"7 km al Oeste de Huayhuahuasi, Espinar - Cusco",
+,,-15.06,-74.62,34,4.5,III-IV Nazca,"43 km al Sur-Este de Nazca, Nazca - Ica",
+,,-16.05,-74.42,26,4.3,II Chala,"30 km al SO de Chala, Caravelí - Arequipa",
+,,-7.94,-80.28,32,4,,"103 km al Oeste-SO de San Pedro de Lloc, Pacasmayo - La Libertad",
+,,-2.47,-79.9,43,5.7,III-IV Zarumilla,"122 km al Norte-NE de Zarumilla, Zarumilla-Tumbes",
+,,-17.09,-71.09,15,4.1,"III  Torata, Moquegua; II Ilo","20 km al O-NO de Moquegua, Mariscal Nieto - Moquegua",
+,,-2.92,-78.67,31,5,"II Zarumilla, Tumbes","189 km al E-NE de Zarumilla, Zarumilla - Tumbes",
+,,-17.42,-72.58,16,3.9,II Mollendo,"75 km al SO de Mollendo, Islay - Arequipa",
+,,-10.77,-74.7,33,4.2,,"54 km al N de Satipo, Satipo - Junin",
+,,-17.73,-69.9,169,4,,"32 km al Sur-SE de Tarata, Tarata - Tacna",
+,,-7.85,-74.52,144,4.1,,"58 km al Norte de Pucallpa, Coronel Portillo-Ucayali",
+,,-10.76,-78.61,46,4.8,"III-IV Huarmey, Barranca, Puerto Supe","92 km al SO de Huarmey, Huarmey - Ancash",
+,,-7.19,-80.97,46,4.5,,"121 km al O-SO de Pimentel, Chiclayo - Lambayeque",
+,,-9.39,-79.23,42,4,,"79 al O-SO de Chimbote, Santa - Ancash",
+,,-15.03,-70.82,203,3.9,,"19 km al Nor-Este de Ocuviri, Lampa - Puno",
+,,-14.36,-76,25,4.6,"III-IV Ica, La Tinguiña; III Pisco, Palpa, Tibillo, Chincha; II Nazca, San Vicente de Cañete, Mala","44 km al Sur-Oeste de Ica, Ica - Ica",
+,,-15.67,-71.81,12,3.4,II Maca,"4 km al S-SE Pinchollo, Caylloma - Arequipa",
+,,-14.26,-75.86,26,3.5,II Ica,"25 km al SO de Ica, Ica - Ica",
+,,-11.92,-75.73,114,4.2,,"30 km al Oeste-SO de Jauja, Jauja - Junin",
+,,-7.55,-75.83,43,4,,"93 km al Oeste-SO de Contamana, Ucayali - Loreto",
+,,-9.24,-79.33,38,3.7,"II Chimbote, Samanco, Huarmey","83 km al SO de Chimbote, Santa - Ancash",
+,,-11.57,-75.56,9,4.6,"IV Tarma, Jauja, La Oroya","22 km al SE de Tarma, Tarma - Junin",
+,,-5.28,-79.11,104,4,,"21 km al Sur-Oeste de San Ignacio, San Ignacio - Cajamarca",
+,,-15.2,-72.04,141,4.4,,"42 km al Nor-Este de Chachas, Castilla - Arequipa",
+,,-9.89,-75.91,14,3.7,II Panao,"6 km al Este de Panao, Pachitea - Huánuco",
+,,-8.66,-74.49,136,4,,"32 km al Sur de Pucallpa, Coronel Portillo - Ucayali",
+,,-3.26,-80.5,47,4.5,,35 km al Norte de Tumbes - Tumbes,https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190092_20190214_134249.pdf
+,,-12.19,-74.32,28,5.5,"V Campo Armiño, Tayacaja-Huancavelica","40 km al este-NE de Campo Armiño, Tayacaja - Huancavelica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190093_20190214_143319.pdf
+,,-12.14,-74.33,17,4.3,II-III Campo Armiño,"42 km al Este-NE de Campo Armiño, Tayacaja-Huáncavelica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190094_20190216_231021.pdf
+,,-11.24,-74.7,14,3.6,III Satipo,"07 km al Oeste-NO de Satipo, Satipo-Junín",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190095_20190217_050110.pdf
+,,-8.49,-76.13,17,3.7,II Uchiza,"39 km al Este de Uchiza, Tocache - San Martin",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190096_20190217_173058.pdf
+,,-8.59,-76.22,22,4,II Uchiza,"31 km al Este-SE de Uchiza, Tocache - San Martin",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190097_20190217_221037.pdf
+,,-17.63,-71.46,43,4,,"13 km al Oeste de Ilo, Ilo - Moquegua",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190098_20190218_224832.pdf
+,,-15.43,-73.19,123,4.1,,"15 km al SE de Colta, Paucar del Sara Sara - Ayacucho",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190099_20190219_043712.pdf
+,,-11.09,-75.65,126,4.5,II La Merced,"38 km al Oeste de la Merced,  Chanchamayo - Junin",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190100_20190219_061143.pdf
+,,-14.83,-75.97,55,5.1,"III-IV Ica, Palpa","89 km al Sur-SO de Ica, Ica - Ica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190101_20190219_083214.pdf
+,,-16.2,-73.29,82,4,,"34 km al Nor-Oeste de Ocoña, Camaná - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190102_20190220_132613.pdf
+,,-10.57,-75.47,128,4.3,,"8 km al Oeste de Oxapampa, Oxapampa - Pasco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190103_20190221_055836.pdf
+,,-8.43,-74.33,152,4.4,,"23 km al Este-SE de Pucallpa, Coronel Portillo - Ucayali",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190104_20190221_070615.pdf
+,,-15.67,-71.85,13,3.6,II Pinchollo,"04 km al Sur-Oeste de Pinchollo, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190105_20190221_145422.pdf
+,,-15.43,-73.15,107,5.1,II-III Pausa,"27 km al Sur-Este de Pausa, Paucar Del Sara Sara - Ayacucho",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190106_20190221_221734.pdf
+,,-2.25,-77.19,139,7.7,V Pastaza,"114 km al Nor-Oeste de Pastaza,  Alto Amazonas - Loreto",
+,,-2.42,-79.87,96,5.7,III Zarumilla,"128 km al Norte-NE de Zarumilla, Zarumilla - Tumbes",
+,,-8.42,-75.17,134,4.6,,"2 km al Nor-Oeste de Curimana, Padre Abad - Ucayali",
+,,-15.67,-71.87,14,3.5,II Pinchollo,"6 km al Oeste-SO de Pinchollo, Caylloma - Arequipa",
+,,-9.85,-78.83,35,4,II Casma,71 km al Sur-Oeste de Casma,https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190111_20190223_014658.pdf
+,,-9.34,-75.34,139,4.1,,"38 km al S-SE de Aguaytía, Padre Abad - Ucayali",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190112_20190224_001835.pdf
+,,-16.1,-73.91,39,3.9,II Atico,"33 km al Oeste-NO de Atico, Caraveli - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190113_20190224_101021.pdf
+,,-15.71,-71.85,15,3.7,II-III Pinchollo,"8 km al Sur-SO de Pinchollo, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190114_20190226_070454.pdf
+,,-8.01,-73.66,153,4.3,,"104 km al Este-NE de Pucallpa, Coronel Portillo - Ucayali",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190115_20190226_090538.pdf
+,,-13.98,-76.09,44,3.9,II Pisco,32 km al Sur-SE de Pisco,https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190116_20190226_181215.pdf
+,,-15.68,-71.88,10,3.4,II Pinchollo,"8 km al Oeste-SO de Pinchollo, Caylloma-Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190117_20190227_094832.pdf
+,,-12.7,-74.17,17,3.7,II-III Churcampa,"25 km al Este de Churcampa, Churcampa-Huancavelica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190118_20190227_122426.pdf
+,,-13.56,-70.68,16,3.7,II San Gabán,"26 km al SO de San Gabán, Carabaya - Puno",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190119_20190228_072817.pdf
+,,-10.67,-74.95,143,4.2,,"42 Km al S de Puerto bermudez, Oxapampa - Pasco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190120_20190228_122331.pdf
+,,-17.68,-69.84,164,4.6,,"31 km al SE de Tarata, Tarata - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190121_20190228_204322.pdf
+,,-14.95,-70.03,265,7,V Sandía.,"17 km al Este-SE de Azángaro, Azángaro - Puno",
+,,-9.19,-79.18,22,3.7,II Chimbote,"66 km al O - SO de Chimbote, Santa - Ancash",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190123_20190302_155909.pdf
+,,-7.35,-74.97,137,4.1,,"4 km al Este de  Contamana, Ucayali - Loreto",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190124_20190303_024258.pdf
+,,-14.56,-73.47,10,4.2,III-IV Pampamarca,"9 km al Este de Pampamarca, Parinacochas - Ayacucho",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190125_20190303_071240.pdf
+,,-8.53,-74.42,159,4.6,,"22 Km al SE de Pucallpa, Coronel Portillo, Ucayali",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190126_20190303_081238.pdf
+,,-8.95,-79.12,53,3.8,II Chimbote,"59 km al O-NO de Chimbote, Santa - Ancash",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190127_20190304_084052.pdf
+,,-13.66,-76.72,32,4.8,II-III Pisco,"57 km al Oeste de Pisco, Pisco - Ica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190128_20190304_110301.pdf
+,,-9.94,-75.71,13,4.7,"II-III Pozuzo, Panao","28 Km al Este de Panao, Pachitea - Huánuco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190129_20190305_225323.pdf
+,,-9.62,-74.9,22,4.1,,"28 km al Sur-SE de Puerto Inca, Puerto Inca-Huánuco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190130_20190306_150542.pdf
+,,-6.46,-79.63,18,5.2,III – IV Ferreñafe,"27 Km al Nor-Este de Ferreñafe, Ferreñafe - Lambayeque",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190131_20190307_040505.pdf
+,,-18.9,-69.9,132,5,III Tacna,"106 km al Sur-SE de Tacna, Tacna - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190132_20190307_055036.pdf
+,,-9.69,-78.99,40,3.7,II Casma,"80 km al Oeste-SO de Casma, Casma - Áncash",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190133_20190307_192947.pdf
+,,-6.46,-76.06,127,4,,"36 km al Este-NE de Tarapoto, San Martín - San Martín",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190134_20190307_193217.pdf
+,,-11.5,-77.87,49,4.1,II Huacho,"52 km al Sur-SO de Huacho, Huaura-Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190135_20190309_111300.pdf
+,,-15.16,-72.34,144,4.3,,"36 km al Norte de Andagua, Castilla - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190136_20190310_034125.pdf
+,,-15.29,-75.61,32,4,II Marcona,"48 km al Oeste de Marcona, Nazca - Ica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190137_20190311_065612.pdf
+,,-14.9,-72.58,124,4.5,,"48 km al Nor-este de Cotahuasi, La Unión - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190138_20190312_125108.pdf
+,,-14.49,-72.42,91,4.3,,"36 km al Oeste de Santo Tomas, Chumbivilcas - Cusco",
+,,-5.47,-80.18,55,4.3,II Chulucanas,"43 km al Sur de Chulucanas, Morropon-Piura",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190140_20190313_111659.pdf
+,,-16.83,-71.81,43,3.8,II Mollendo,"31 km al Nor - Este de Mollendo, Islay - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190141_20190313_180325.pdf
+,,-5.56,-76.44,47,4.1,,"52 km al Nor-Oeste de Yurimaguas, Alto Amazonas - Loreto",
+,,-12.6,-74.95,21,4,II Conayca,"12 km al Sur-Este de Conayca, Huancavelica-Huancavelica",
+,,-12.62,-76.95,31,3.7,II Chilca,"26 km al Oeste-SO de Chilca, Cañete - Lima",
+,,-18.26,-66.29,399,6.3,"II-III Tarata, Tacna, Ilo",270 km al SE de La Paz - Bolivia,https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190145_20190315_050348.pdf
+,,-12.08,-77.64,35,4,II-lll Callao,"55 Km al Oeste de Callao, Callao - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190147_20190316_134317.pdf
+,,-7.65,-76.32,144,4.2,,"63 km al N-NE de Tocache Nuevo, Tocache - San Martin",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190147_20190318_080547.pdf
+,,-3.79,-81.35,19,4.3,,"49 km al NO de Mancora, Talara - Piura",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190148_20190318_085521.pdf
+,,-15.68,-72.74,16,3.6,II Pampacolca,"19 km al Oeste de Pampacolca, Castilla - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190149_20190318_175842.pdf
+,,-15.45,-70.58,226,4.6,,"25 km al Norte de Santa Lucía, Lampa - Puno",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190150_20190320_054140.pdf
+,,-2.89,-77.36,30,5.3,II-III Pastaza,"107 km al Oeste de Pastaza, Alto Amazonas - Loreto",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190151_20190320_162320.pdf
+,,-15.42,-74.27,96,4.7,III Acarí,"37 km al Este de Acarí, Caravelí-Arequipa",
+,,-8.71,-76.36,14,4,,"29 km Sur-SE de Uchiza, Tocache-San Martín",
+,,-12.81,-74.97,108,4.7,,"2 km al Sur de Huancavelica, Huancavelica - Huancavelica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190154_20190321_191420.pdf
+,,-12.78,-76.89,43,4.9,III Mala,"32 km al Oeste-SO de Mala, Cañete - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190155_20190322_125028.pdf
+,,-5.49,-79.58,98,4,,"32 km al Sur-SO de Huancabamba, Huancabamba - Piura",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190156_20190324_095521.pdf
+,,-12.6,-76.81,54,3.7,II Chilca,"13 km al Sur-Oeste de Chilca, Cañete-Lima",
+,,-2.43,-76.85,165,4.5,,"72 km al Nor-Oeste Pastaza, Alto Amazonas - Loreto",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190158_20190325_140325.pdf
+,,-10.24,-74.95,125,4.1,,"6 km al Norte de Puerto Bermudez, Oxapampa - Pasco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190159_20190326_071340.pdf
+,,-18.55,-69.55,142,4.8,"III Tacna; II Moquegua, Arequipa","96 km al SE de Tacna, Tacna - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190160_20190327_035709.pdf
+,,-12.64,-76.82,52,3.6,II Lima,"17 km al S-SO de Chilca, Cañete - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190161_20190327_063418.pdf
+,,-16.01,-74.49,24,4.5,II-III Chala,"32 Km al Oeste-SO de Chala, Caravelí - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190162_20190327_175147.pdf
+,,-14.05,-76.65,28,4.2,,"62 km al Sur-Oeste de Pisco, Pisco - Ica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190163_20190328_005936.pdf
+,,-3.11,-77.31,137,4.7,,104 km al Oeste-SO de Pastaza,https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190164_20190328_153959.pdf
+,,-14.11,-76.76,23,4,,74 km al Sur-Oeste de Pisco - Ica,https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190165_20190328_163810.pdf
+,,-15.85,-74.6,34,4.3,II Yauca,"23 km al Sur-SO de Yauca, Caravelí - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190166_20190330_035300.pdf
+,,-16.26,-73.41,71,4,,"23 km al Este-SE de Atico, Caravelí - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190167_20190330_075348.pdf
+,,-9.53,-75.88,135,4,,"30 km al Sur-SE de Tingo María, Leoncio Prado - Huánuco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190168_20190330_084433.pdf
+,,-10.06,-79.69,24,5.7,"IV Samanco, Chimbote, Huarmey, Casma; II-III Trujillo, Huaraz; II Lima, Callao, Huacho, Huanuco","159 km al SO de Samanco, Santa - Ancash",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190169_20190331_152752.pdf
+,,-16.05,-74.52,38,4.6,"II-III Yauca, Chala, Lomas","44 km al Sur de Yauca, Caravelí - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190170_20190401_203507.pdf
+,,-17.8,-69.67,179,4.2,,"53 km al SE de Tarata, Tarata - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190170_20190402_033640.pdf
+,,-2.85,-77.32,144,4.3,,"102 km al Oeste de Pastaza, Alto Amazonas - Loreto",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190172_20190402_091415.pdf
+,,-15.83,-71.91,13,3.7,II-III Pinchollo,"23 km al Sur-SO de Pinchollo, Caylloma-Arequipa",
+,,-2.28,-77.75,124,4.2,,"165 km al Oeste-NO de Pastaza, Alto Amazonas-Loreto",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190174_20190403_132145.pdf
+,,-16.41,-71.73,130,4.3,,"19 km al Sur-SO de Yura, Arequipa - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190175_20190403_212725.pdf
+,,-12.62,-76.96,34,3.6,II Chilca,"27 km al Oeste-SO de Chilca, Cañete - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190176_20190405_034158.pdf
+,,-8.82,-78.97,67,3.7,II Chimbote,"50 km al Oeste-NO de Chimbote, Santa - Ancash",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190177_20190405_055441.pdf
+,,-2.66,-77.33,151,4.1,,"106 km al Oeste-NO de Pastaza,  Alto Amazonas - Loreto",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190178_20190405_070641.pdf
+,,-13.56,-77.13,13,4.6,II San Vicente de Cañete,"98 km al Oeste-SO de San Vicente de Cañete, Cañete - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190179_20190405_094504.pdf
+,,-18.43,-71.15,26,4.7,II-III Ilo,90 km al Sur-SE de Ilo - Moquegua,https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190180_20190405_165842.pdf
+,,-15.94,-72.77,103,4.6,II Chuquibamba,"17 km al Sur-Oste de Chuquibamba, Condesuyos-Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190181_20190407_011501.pdf
+,,-11.27,-79.65,28,4.3,,"211 km al SO de Huarmey, Huarmey - Ancash",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190183_20190407_171338.pdf
+,,-9.91,-78.82,54,4.2,"II Huarmey, Casma","75 km al Oeste NO Huarmey, Huarmey - Ancash",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190183_20190407_232541.pdf
+,,-11.7,-77.72,36,3.7,II Ancón,"60 km al Oeste de Ancón, Lima - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190184_20190408_032148.pdf
+,,-15.69,-74.12,82,4,,"22 km al NE de Chala,  Caraveli - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190185_20190410_031926.pdf
+,,-14.56,-75.55,55,4.2,"II Palpa, Ica, Nazca","40 km al Oeste de Palpa, Palpa - Ica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190186_20190410_060518.pdf
+,,-16.2,-69.63,218,4.3,,"19 Km al Oeste de Juli, Chucuito - Puno",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190187_20190410_130806.pdf
+,,-13.66,-76.34,64,5.1,IV Pisco,17 km al Oeste-NO de Pisco,https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190188_20190411_155032.pdf
+,,-6.97,-74.12,190,4.6,,"107 Km al Este-NE de Contamana, Ucayali - Loreto",
+,,-13.71,-76.72,43,4.1,II Pisco,56 km al Oeste de Pisco,https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190190_20190412_130331.pdf
+,,-15.33,-72.93,17,3.8,II-III Cotahuasi,"14 km al Sur-SO de Cotahuasi, La Unión - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190191_20190413_110031.pdf
+,,-18.48,-71.1,27,4.3,II Ilo,"97 km al Sur-SE de Ilo, Ilo - Moquegua",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190192_20190413_124310.pdf
+,,-15.69,-71.88,12,3.5,II Pinchollo,"8 km al Sur-Oeste de Pinchollo, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190194_20190416_175352.pdf
+,,-15.66,-71.88,11,3.4,II Pinchollo,"7 km al Oeste-SO de Pinchollo, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190195_20190416_214215.pdf
+,,-5.11,-78.37,53,5.3,"III Bagua, Santa Maria de Nieva","62 Km al Norte-NE de Bagua, Bagua - Amazonas",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190196_20190417_150101.pdf
+,,-9,-76.1,31,3.9,II Aucayacu,"6 km al Sur de Aucayacu, Leoncio Prado - Huanuco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190197_20190417_225957.pdf
+,,-15.2,-70.99,13,3.6,II Ocuviri,"8 km al Oeste-SO de Ocuviri, Lampa - Puno",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190198_20190418_003145.pdf
+,,-5.43,-80.41,47,4,"II Piura, Sechura","35 km al Sur-Este de Piura, Piura - Piura",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190199_20190418_043612.pdf
+,,-3.1,-75.67,147,4.8,,"84 km al Este-SE de Pastaza, Alto Amazonas - Loreto",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190193_20190415_031128.pdf
+,,-15.63,-71.92,10,3.6,"II Cabanaconde, Maca","7 km al Este de Cabanaconde, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190200_20190418_185556.pdf
+,,-8.24,-78.08,15,3.5,II Santiago de Chuco,"15 km al Sur-Este de Santiago de Chuco, Santiago de Chuco - La Libertad",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190201_20190419_035723.pdf
+,,-13.22,-76.69,54,4,II San Vicente de Cañete,"37 km al Oeste-SO de San Vicente de Cañete, Cañete - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190202_20190419_062132.pdf
+,,-3.52,-80.88,22,4.8,II Zorritos,"29 km al Nor-Oeste de Zorritos, Contralmirante Villar - Tumbes",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190203_20190422_010448.pdf
+,,-17.48,-71.11,35,4,"II-III Ilo, Moquegua","30 km al Nor-Este de ilo, Ilo - Moquegua",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190204_20190423_031057.pdf
+,,-18.35,-70.17,62,4.1,II Tacna,"39 km al Sur de Tacna, Tacna - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190205_20190423_101617.pdf
+,,-15.67,-71.88,11,3.6,II Pinchollo,"7 km al Oeste-SO de Pinchollo, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190206_20190424_040136.pdf
+,,-5.33,-81,25,4.4,"III-IV Paita, Sechura.","31 km al Sur-SE de Pita, Paita - Piura",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190208_20190426_192421.pdf
+,,-5.77,-78.49,11,4.1,"II-III Bagua Grande, Bagua","6 km al Oeste-SO de Bagua Grande, Utcubamba – Amazonas.",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190208_20190427_114345.pdf
+,,-15.61,-75.14,36,4.5,"II Lomas, San Juan Marcona, Yauca, Acarí","31 km al Oeste de Lomas, Caravelí - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190209_20190428_124613.pdf
+,,-4.05,-80.49,64,4.3,II Ayabaca,"47 km al Sur-SE de Zorritos, Contralmirante Villar - Tumbes",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190210_20190429_031503.pdf
+,,-14.58,-75.76,54,4.7,III Ica,"57 km al Sur de Ica, Ica - Ica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190211_20190429_080741.pdf
+,,-5.36,-77.45,15,4.4,,"98 km al Sur-SE de Sta María de Nieva, Condorcanqui - Amazonas",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190212_20190502_110600.pdf
+,,-17.72,-69.85,13,3.7,II Tarata,"33 km al Sur-Este de Tarata, Tarata-Tacna",
+,,-14.85,-75.83,46,4.2,,"78 km al Oeste SO de Palpa, Palpa-Ica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190214_20190503_145454.pdf
+,,-17.73,-69.84,12,3.5,II Tarata,"35 km al Sur-Este de Tarata, Tarata - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190215_20190504_063943.pdf
+,,-16.19,-73.81,19,3.9,II Atico,21 km al Oeste de Atico,https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190216_20190506_002542.pdf
+,,-16.58,-73.7,14,4.1,II Atico,"42 km al Sur-SO de Atico, Caravelí Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190217_20190506_064750.pdf
+,,-12.33,-77.3,37,3.2,II Lima,"44 km al Sur-Oeste de Lima, Lima - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190218_20190506_072138.pdf
+,,-15.99,-74.35,23,4,II Chala,"20 km al Sur-Oeste de Chala, Caraveli - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190219_20190508_062045.pdf
+,,-15.9,-75.13,22,5.8,"III-IV Lomas, Yauca, Acarí","47 km al SO de Lomas, Caravelí - Arequipa",
+,,-15.92,-75.11,18,4.4,"II Lomas, Yauca","48 km al Sur-Oeste de Lomas, Caravelí - Arequipa",
+,,-16.01,-74.1,59,4.4,"II Chala, Yauca, Atico","23 km SE de Chala, Caraveli - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190222_20190509_041014.pdf
+,,-14.7,-75.68,66,4.3,II Palpa,"57 km al Oeste-SO de Palpa, Palpa - Ica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190223_20190509_103351.pdf
+,,-15.8,-75.06,22,4.2,II Lomas,"34 km al Sur-Oeste de Lomas, Caravelí - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190224_20190509_211829.pdf
+,,-15.68,-71.8,14,3.4,II Maca,"5 km al Sur-Oeste de Maca, Caylloma-Arequipa",
+,,-15.42,-75.26,28,3.7,II San Juan de Marcona,"11 km al Oeste-SO de San Juan de Marcona, Nazca - Ica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190226_20190511_180555.pdf
+,,-5.15,-80.86,38,4,II Piura,"26 km al Oeste-NO de Piura, Piura - Piura",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190227_20190511_200343.pdf
+,,-15.68,-71.99,13,3.5,II Cabanaconde,"6 km al Sur de Cabanaconde, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190228_20190511_231417.pdf
+,,-15.63,-71.92,11,3.6,II Cabanaconde,"7 km al Este de Cabanaconde, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190229_20190512_002106.pdf
+,,-11.7,-74.39,18,3.9,II San Martín de Pangoa,"50 km al Sur de San Martín de Pangoa, Satipo - Junín",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190230_20190512_072349.pdf
+,,-8.02,-76.16,138,4.5,,"44 km al Este-NE de Tocache Nuevo,Tocache-San Martín",
+,,-15.87,-71.76,5,3.5,II Maca,"25 km al Sur de Maca, Caylloma - Arequipa",
+,,-17.83,-69.67,166,4.5,,"55 km al Sur-Este de Tarata,Tacna - Tacna",
+,,-12.26,-75.01,106,5.4,"III Ñahuimpuquio, Huancavelica, Huancayo","10 km al Nor-Este de Ñahuimpuquio, Tayacaja - Huancavelica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190234_20190513_071030.pdf
+,,-14.16,-74.52,90,5.2,"III Huanca Sancos, Puquio","34 km al Sur-Oeste de Huanca Sancos, Sancos - Ayacucho",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190235_20190513_124152.pdf
+,,-12.18,-75.38,9,3.6,II-III Huancayo,"23 km al Oeste-SO de Huancayo, Huancayo - Junín",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190236_20190513_180050.pdf
+,,-16.19,-74.08,48,4.5,"III Chala, Atico, Yauca","42 km al Sur-SE de Chala, Caravelí - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190237_20190514_020453.pdf
+,,-14.54,-70.99,14,3.9,"II Langui, Sicuani","33 km al Este-SE de Langui, Canas - Cusco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190238_20190515_090515.pdf
+,,-2.52,-77.38,137,5.3,II-III Pastaza,"116 km al Oeste-NO de Pastaza, Alto Amazonas - Loreto",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190239_20190516_040456.pdf
+,,-17.87,-70.3,113,4.9,"III Alto de la Alianza, Tacna, Tarata","16 km al Norte – NO de Tacna, Tacna - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190240_20190516_143250.pdf
+,,-14.55,-70.99,16,4.3,"II - III Langui, Sicuani, Ñuñoa, Layo, Santa Rosa","33 km al Este-SE de Langui, Canas - Cusco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190241_20190516_234922.pdf
+,,-14.54,-70.98,13,3.7,"II Langui, Sicuani","33 km al Este-SE de Langui, Canas - Cusco",
+,,-19.66,-70.48,56,5.3,"II-III Tacna, Tacna -Tacna","185 km al Sur de Tacna, Tacna - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190243_20190517_141625.pdf
+,,-5.01,-75.25,48,4.7,"II Lagunas, Requena","53 km al NE de Lagunas, Alto Amazonas - Loreto",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190245_20190518_035539.pdf
+,,-8.94,-79.12,59,3.9,II Chimbote,"60 km  al Oeste – NO de Chimbote, Santa, Ancash",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190244_20190518_020919.pdf
+,,-9.87,-74.78,20,4,II Puerto Bermudez,"51 km al Norte-NE de Puerto Bermudez, Oxapampa - Pasco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190246_20190518_213634.pdf
+,,-13.68,-71.72,12,3.5,II Andahuaylillas,"6 km al Oeste de Andahuaylillas, Quispicanchi - Cusco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190247_20190519_124555.pdf
+,,-16.41,-72.09,15,3.7,II Vitor,"19 km al Oeste-NO de Vitor, Arequipa - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190248_20190519_213142.pdf
+,,-16.79,-71.3,18,3.7,"II Omate, Arequipa","36 km al Oeste de Omate, General Sanchez Cerro - Moquegua",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190249_20190521_103420.pdf
+,,-15.79,-71.83,12,4.1,"III Maca, Pinchollo, Lari, Madrigal, Cabanaconde","18 km al Sur-SO de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190250_20190521_125528.pdf
+,,-15.8,-71.85,12,4.5,"III-IV Maca, Pinchollo","19 km al Sur-SO de Maca, Cailloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190251_20190521_133737.pdf
+,,-8.93,-80.26,22,4.8,II Trujillo,"163 km al Oeste-SO de Trujillo, Trujillo - La Libertad",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190252_20190522_011501.pdf
+,,-15.72,-72.11,11,3.8,II  Huambo,"1 km al Norte- NE de Huambo, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190253_20190523_093742.pdf
+,,-12.79,-77.03,53,3.9,"II Chilca, Lima","44 km al SO de Chilca, Cañete - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190254_20190523_194637.pdf
+,,-16.41,-72.43,76,4.2,"II Quilca, Camaná, Aplao","33 km al Norte de Quilca, Camaná - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190255_20190523_231610.pdf
+,,-14.67,-71.6,6,3.3,II-III Huayhuahuasi,"7 km al Oeste de Huayhuahuasi, Espinar - Cusco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190256_20190524_012448.pdf
+,,-6.49,-80.96,29,4.4,,"105 km al Sur de Sechura, Sechura - Piura",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190257_20190525_014919.pdf
+,,-8.61,-79.76,34,4.7,"III Salaverry, Trujillo","98 km al Oeste-SO de Salaverry, Trujillo - La Libertad",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190258_20190525_125621.pdf
+,,-5.74,-75.55,135,8,"VII Lagunas, Yurimaguas","60 km al S de Lagunas y 64 km al E de Yurimaguas,  Alto Amazonas - Loreto",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190259_20190526_074112.pdf
+,,-13.32,-75.25,108,4.8,II Castrovirreyna,"9 km al Oeste-SO de Castrovirreyna, Castrovirreyna - Huancavelica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190260_20190526_104114.pdf
+,,-15.91,-71.78,11,4.2,II-III Maca,"31 km al Sur de Maca, Caylloma - Arequipa",
+,,-9.47,-79.1,30,4.2,II Samanco,"71 km al Oeste-SO de Samanco, Santa - Ancash.",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190262_20190527_004700.pdf
+,,-17.11,-70.67,15,3.7,II Torata,"19 km al Este-SE de Torata, Mariscal Nieto - Moquegua",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190263_20190527_055612.pdf
+,,-6.02,-79.94,15,3.9,II Olmos,"6 km al Sur-Oeste de Olmos, Lambayeque - Lambayeque",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190264_20190527_092707.pdf
+,,-12.42,-77.6,27,4.8,III-IV Callao,"64 km al SO de de Callao, Callao - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190265_20190528_031434.pdf
+,,-15.96,-75.19,19,4.9,"III Lomas, Yauca, San Juan Marcona, Acarí","57 km al SO de Lomas, Caravelí - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190266_20190528_032813.pdf
+,,-8.84,-74.49,138,4.6,,"53 km al Sur de Pucallpa, Coronel Portillo -Ucayali",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190267_20190528_144144.pdf
+,,-11.54,-78.01,35,3.8,II Huacho,"65 km al SO de Huacho, Huaura - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190268_20190528_191703.pdf
+,,-15.73,-71.92,10,3.8,II Cabanaconde,13 km al Sur – SE de Cabanaconde,https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190269_20190528_223232.pdf
+,,-15.72,-71.77,10,3.2,II Maca,"9 km al Sur de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190270_20190529_060324.pdf
+,,-4.65,-75.42,128,5,II-III Lagunas,"70 km al NE de Lagunas, Alto Amazonas - Loreto",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190271_20190529_234024.pdf
+,,-12.12,-76.46,72,3.9,II Chilca,"53 km al Nor-Este de Chilca, Cañete - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190272_20190530_033255.pdf
+,,-15.11,-75.73,31,4.9,III Marcona,"66 km al Oeste-NO de San Juan de Marcona, Nazca - Ica",
+,,-15.19,-75.85,31,4.7,II Marcona,"75 km al Oeste-NO de San Juan de Marcona, Nazca - Ica",
+,,-15.74,-71.78,9,3.4,II Maca,"12 km al Sur de Maca, Caylloma - Arequipa",
+,,-15.18,-75.85,35,4.6,II Marcona,"76 km al Oste-NO de San Juan de Marcona, Nazca - Ica",
+,,-15.11,-72.2,127,4.3,II Cabanaconde,"62 km al Norte-NO de Cabanaconde, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190277_20190530_185517.pdf
+,,-18.71,-69.44,125,4.3,,"112 km al Sur-Este de Calama, Tacna - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190278_20190531_073508.pdf
+,,-15.73,-71.79,11,3.3,II Maca,"11 km al Sur-SO de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190279_20190531_083021.pdf
+,,-15.74,-71.93,10,4,"II-III Cabanaconde, Maca","14 km al Sur-SE de Cabanaconde, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190280_20190531_092224.pdf
+,,-16.16,-74.35,25,4.2,"II-III Chala, Yauca","37 km al Sur SO de Chala, Caravelí - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190281_20190531_171735.pdf
+,,-10.46,-74.85,130,4.2,II-III Puerto Bermúdez,"23 km al Sur - Este de Puerto Bermúdez, Oxapampa -Pasco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190282_20190601_000905.pdf
+,,-12.1,-77.37,41,3.7,II Callao,"26 km al Oeste de Calla, Callao - Lima",
+,,-6.88,-78.58,14,3.6,II Bambamarca,"23 km al Sur-SO de Bambamarca, Hualgayoc - Cajamarca",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190284_20190601_151411.pdf
+,,-15.68,-71.89,13,3.5,II Pinchollo,"9 km al Oeste-SO de Pinchollo, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190285_20190601_164321.pdf
+,,-14.48,-71.32,30,4.4,III Langui,"8 km al Sur-Oeste de Langui, Canas - Cusco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190286_20190601_175538.pdf
+,,-10.85,-73.57,30,4.1,II Atalaya,"25 km al Sur-Este de Atalaya, Atalaya - Ucayali",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190287_20190601_233241.pdf
+,,-17.77,-70.3,90,4.1,II Alto de la Alianza,"25 km al Norte de Alto de la Alianza, Tacna - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190288_20190602_161122.pdf
+,,-15.73,-71.82,17,3.5,II Pinchollo,"10 km al Sur de Pinchollo, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190289_20190602_183501.pdf
+,,-16.3,-73.53,24,3.9,II Atico,"14 km al Sur-Este de Atico, Caravelí - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190290_20190602_204520.pdf
+,,-9.46,-77.61,18,3.7,II Huaraz,"12 km al Nor-Oeste de Huaraz, Huaraz - Ancash",
+,,-17.57,-70.93,38,3.7,II Locumba,"18 km al Oeste-NO de Locumba, Jorge Basadre - Tacna",
+,,-15.71,-71.92,10,4.3,III-IV Cabanaconde,"12 km al Sur-Este de Cabanaconde, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190293_20190604_020404.pdf
+,,-5.75,-78.73,19,3.4,II Jaen,"10 km al Este-SE de Jaen, Jaen - Cajamarca",
+,,-9.42,-77.61,15,4,III Carhuaz,"16 km Sur-SE de Carhuaz, Carhuaz - Ancash",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190295_20190606_042556.pdf
+,,-5.07,-79.03,17,3.4,II San Ignacio,"8 km al Norte-NO de San Ignacio, San Ignacio - Cajamarca",
+,,-9.43,-77.59,15,3.5,II Huaraz,"13 km al Norte-NO de Huaraz, Huaraz - Ancash",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190297_20190606_091200.pdf
+,,-12.74,-76.84,44,3.6,II Mala,"25 km al Oeste-SO de Mala, Cañete - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190298_20190606_114252.pdf
+,,-8.53,-77.86,18,3.6,II Corongo,"06 km al Este-SE de Corongo, Corongo - Ancash",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190299_20190607_103120.pdf
+,,-9.87,-78.78,29,4.6,"II-III Casma, Chimbote","68 km al Sur-Oeste de Casma, Casma - Ancash",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190300_20190608_045812.pdf
+,,-6.21,-80.99,30,4,II Sechura,"75 km al Sur-SO de Sechura, Sechura - Piura",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190301_20190608_075220.pdf
+,,-16.73,-70.84,23,3.6,II Calacoa,"17 km al Oeste de Calacoa, Mariscal Nieto - Moquegua",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190302_20190608_102813.pdf
+,,-10.66,-75.41,10,3.7,II Oxapampa,"09 km al Sur de Oxapampa, Oxapampa - Pasco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190303_20190608_164140.pdf
+,,-15.73,-74.54,55,3.6,II Yauca,"8 km al Sur-SO de Yauca, Caravelí - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190304_20190611_032737.pdf
+,,-6.85,-78.24,16,3.7,II Celendin,"8 km al Oeste-NO de Celendín, Celendín - Cajamarca",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190305_20190611_035222.pdf
+,,-18.93,-70.49,48,4.7,II-III Tacna,"105 km al Sur-SO de Tacna, Tacna - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190306_20190611_050051.pdf
+,,-11.8,-77.75,44,4.1,"III Ancon, II Lima","64 km al Oeste de Ancon, Lima - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190307_20190611_053748.pdf
+,,-3.91,-80.24,66,4.7,II-III Zarumilla,"45 km al Sur de Zarumilla, Zarumilla - Tumbes",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190309_20190611_122809.pdf
+,,-12.31,-77.36,31,3.5,II Callao,"37 km al Sur-Oeste de Callao, Callao - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190309_20190612_095237.pdf
+,,-15.77,-72.11,14,3.6,II-III Huambo,"04 km al Sur de Huambo, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190310_20190612_222519.pdf
+,,-17.29,-70.89,29,3.7,II Moquegua,"11 km al Sur-SE de Moquegua, Mariscal Nieto - Moquegua",
+,,-4.05,-77.01,105,4.5,,"112 km al Este - NE de Sta. María de Nieva, Condorcanqui -Amazonas",
+,,-16.12,-73.71,40,4,II Atico,"15 km al Nor-Oeste de Atico, Caravelí - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190313_20190617_090339.pdf
+,,-16.83,-72.79,57,4,II-III Camaná,"25 km al Sur-SO de Camaná, Camaná - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190314_20190617_202743.pdf
+,,-11.32,-73.38,30,4.2,II Atalaya,"79 km al Sur-SE de Atalaya, Atalaya - Ucayali",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190315_20190619_020722.pdf
+,,-12.48,-77.18,33,3.6,II Callao,"47 km al Sur de Callao, Callao - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190316_20190619_081853.pdf
+,,-4.05,-76.15,121,5.1,II Pastaza,"131 km al Sur-SE de Pastaza, Alto Amazonas - Loreto",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190317_20190619_230258.pdf
+,,-11.81,-76.94,93,4.5,III Yangas,"16 km al Sur-Oeste de Yangas, Canta - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190318_20190620_044301.pdf
+,,-9.86,-75.57,18,3.9,II Codo del Pozuzo,"24 km al Sur SO de Codo del Pozuzo, Puerto Inca - Huánuco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190319_20190622_215457.pdf
+,,-15.83,-71.88,11,3.5,II Pinchollo,"22 km al Sur-SO de Pinchollo, Caylloma - Arequipa",
+,,-9.41,-75.92,12,4.5,III Tingo Maria,"16 km al Sur-Este de Tingo Maria, Leoncio Prado - Huanuco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190321_20190626_013852.pdf
+,,-6.99,-80.37,40,4,II Pimentel,"52 km al Oeste-SO de Pimentel, Chiclayo - Lambayeque",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190322_20190626_073334.pdf
+,,-9.42,-75.93,10,3.7,II Tingo Maria,"17 km al Sur-SE de Tingo Maria, Leoncio Prado - Huanuco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190323_20190626_110700.pdf
+,,-9.38,-75.92,12,3.6,II Tingo Maria,"13 km al Sur-Este de Tingo Maria, Leoncio Prado - Huanuco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190324_20190626_125417.pdf
+,,-9.44,-75.96,14,3.5,II Tingo María,"17 km al Sur SE de Tingo María, Leoncio Prado - Huánuco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190325_20190626_160221.pdf
+,,-12.96,-77.33,35,4.3,II Chilca,"82 km al Sur - Oeste de Chilca, Cañete - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190326_20190626_203519.pdf
+,,-16.45,-71.72,21,3.7,II Arequipa,"20 km al Oeste SO de Arequipa, Arequipa - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190327_20190627_065717.pdf
+,,-18.47,-70.12,93,4.5,II Tacna,"54 km al Sur SE de Tacna, Tacna - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190328_20190627_114533.pdf
+,,-14.55,-76.39,15,4.6,II Ica,"90 km al Sur Oeste de Ica, Ica - Ica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190329_20190629_010634.pdf
+,,-16.26,-74.45,38,4.9,"III Chala, Yauca y Atico","50 km al Sur SO de Chala, Caraveli - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190330_20190629_050019.pdf
+,,-18.67,-69.67,147,4.6,II Tacna,"96 km al Sur Este de Tacna, Tacna - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190331_20190629_201443.pdf
+,,-17.5,-69.54,180,4.2,,"42 km al Sur-SE de Capaso, El Collao-Puno",
+,,-15.22,-75.96,34,4.4,,87 km al Oeste  de San Juan de Marcona - Ica,https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190333_20190702_230926.pdf
+,,-9.5,-75.52,18,4.2,II Codo de Pozuzo,"20 km al Norte-NO de Codo de Pozuzo, Puerto Inca - Huánuco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190334_20190703_225020.pdf
+,,-11.35,-78.47,33,4.2,"II Huacho, Barranca, Puerto Supe","98 km al Oeste-SO de Huacho, Huaura - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190335_20190704_064129.pdf
+,,-3.24,-77.68,119,4.5,,"147 km al Oeste-SO de Pastaza, Alto Amazonas - Loreto",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190336_20190704_071228.pdf
+,,-4.31,-80.57,50,5,"II-III Mancora, Talara","57 km al Este-SE de Mancora, Talara - Piura",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190337_20190704_182057.pdf
+,,-18.01,-70.07,84,3.9,II Tacna,"19 km al Este de Tacna, Tacna - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190338_20190706_003220.pdf
+,,-4.86,-80.85,32,4.2,II Sullana,"18 km al Oeste de Sullana, Sullana - Piura",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190339_20190706_122506.pdf
+,,-15.81,-73.38,43,4.1,II Caravelí,"05 km al Sur-SO de Caravelí, Caravelí - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190340_20190708_080549.pdf
+,,-4.3,-78.01,27,4,II Sta. María de Nieva,"35 km al Norte-NO de Sta. María de Nieva, Condorcanqui - Amazonas",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190341_20190708_141554.pdf
+,,-9.02,-79.28,41,4,II Chimbote,"76 km al Oeste de Chimbote, Santa - Ancash",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190342_20190711_063957.pdf
+,,-9.95,-75.68,12,3.7,II Pozuzo,"24 km al NO de Pozuzo, Oxapampa - Pasco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190343_20190712_071610.pdf
+,,-15.09,-73.44,117,4.5,,"18 km al Oeste-NO de Colta, Paucar del Sara Sara - Ayacucho",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190344_20190713_143937.pdf
+,,-3.39,-80.04,84,4,II Zarumilla,"28 km al Este-NE de Zarumilla, Zarumilla - Tumbes",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190345_20190713_150526.pdf
+,,-15.9,-74.59,44,4.2,II Chala,"38 km al Oeste de Chala, Caraveli - Arequipa",
+,,-15.8,-71.88,11,3.7,"II Pinchollo, Cabanaconde","19 km al Sur-Oeste Pinchollo, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190347_20190715_234715.pdf
+,,-14.37,-75.55,86,4.2,II Ica,"38 km al Sur-SE de Ica, Ica - Ica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190348_20190719_032552.pdf
+,,-11.29,-75.18,14,4.3,II La Merced,"30 km al Sur-SE de La Merced, Chanchamayo - Junín",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190349_20190722_104919.pdf
+,,-7.75,-75.96,125,4.4,,"78 km al NE de Tocache Nuevo, Tocache - San Martín",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190350_20190723_065305.pdf
+,,-15.89,-74.69,37,4.9,III-IV Yauca,"32 km al SO de Yauca,  Caravelí - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190351_20190723_114120.pdf
+,,-2.53,-76.49,152,4.9,,"43 km al Norte-NO de Pastaza, Alto Amazonas - Loreto",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190352_20190723_114454.pdf
+,,-11.72,-77.68,25,4,II Ancon,"56 km al Oeste de Ancon, Lima - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190353_20190725_045726.pdf
+,,-11.41,-78.24,31,4.3,II Huacho,"77 km al Oeste SO de huacho, Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190354_20190729_071844.pdf
+,,-15.66,-74.93,33,4,II Lomas,"13 km al Sur-Oeste de Lomas, Caraveli - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190355_20190729_184650.pdf
+,,-14.24,-75.68,69,4.1,II Ica,"20 Km al S de Ica, Ica - Ica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190356_20190802_000954.pdf
+,,-4.21,-80.83,32,4.2,II Mancora,"26 km al Este-SE de Mancora, Talara - Piura",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190357_20190803_072506.pdf
+,,-8.93,-79.4,43,4.2,"II Chimbote, Trujillo, Salaverry","90 km al Oeste  de Chimbote, Santa - Ancash",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190358_20190804_085402.pdf
+,,-11.72,-76.6,100,4.5,"II Matucana, Lima","26 km al Oeste-NO de Matucana, Huarochiri - Lima",
+,,-3.88,-77.35,109,4.7,,"96 km al NE de Sta. Maria de Nieva, Condorcanqui-Amazonas",
+,,-8.9,-79.42,28,4.2,"II Salaverry, Trujillo, Chimbote","92 km al Sur-SO de Salaverry, Trujillo - La Libertad",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190361_20190807_074001.pdf
+,,-15.72,-71.92,8,3.6,II Cabanaconde,"13 km al Sur-SE de Cabanaconde, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190362_20190807_112755.pdf
+,,-14.93,-76.11,20,4.8,II - III Ica,"105 km al Sur SO de Ica, Ica - Ica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190363_20190808_043921.pdf
+,,-12.89,-77.22,26,3.6,II Chilca,"67 km al SO de Chilca, Cañete -Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190364_20190809_000732.pdf
+,,-16.02,-70.34,216,4.7,,"11 km al NO de San Antonio, Puno - Puno",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190365_20190809_222751.pdf
+,,-5.74,-78.75,31,4.3,II Jaén,"8 km al SE de Jaén, Jaén - Cajamarca",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190366_20190810_133214.pdf
+,,-8.83,-74.66,152,4.7,,"56 km al Sur-SO de Pucallpa, Coronel Portillo - Ucayali",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190366_20190810_163637.pdf
+,,-15.69,-71.76,13,3.4,II Maca,"6 km al Sur de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190368_20190811_205422.pdf
+,,-15.78,-71.74,9,3.5,II Maca,"16 km al Sur SE de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190369_20190813_094529.pdf
+,,-10.16,-77.49,22,5.1,"V Cajacay, Recuay; IV Aija","6 km al Oeste-SO de Cajacay, Bolognesi - Ancash",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190270_20190813_155000.pdf
+,,-15.82,-71.93,13,3.9,II-III Huambo,"22 km al Este - SE de Huambo, Caylloma - Arequipa",
+,,-9.89,-75.47,13,4,"II-III Pozuzo, Codo de Pozuzo","27 km al Norte-NE de Pozuzo, Oxapampa - Pasco",
+,,-10.11,-77.41,25,3.7,II Cajacay,"5 km al Nor-Este de Cajacay, Bolognesi - Ancash",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190373_20190814_215857.pdf
+,,-8.26,-75.1,142,5.1,II Curimaná,"21 km al Norte NE de Curimaná, Padre Abad - Ucayali",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190374_20190815_160649.pdf
+,,-15.81,-71.76,8,3.6,"II Maca, Pinchollo, Lari","19 km al Sur de Maca, Caylloma - Arequipa",
+,,-5.59,-76.1,21,4.3,II-III  Yurimaguas,"33 km al Norte de Yurimaguas, Alto Amazonas - Loreto",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190376_20190817_093008.pdf
+,,-2.4,-79.55,115,5.1,II Zarumilla,"147 km al Norte NE de Zarumilla, Zarumilla - Tumbes",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190377_20190818_092827.pdf
+,,-12.4,-75.24,17,4.7,"III-IV Huasicancha; III Huancayo, Huancavelica, Chupaca","09 km al Sur-SE de Huasicancha, Huancayo - Junín",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190378_20190819_053740.pdf
+,,-4.03,-80.63,46,3.9,II Zorritos,"41 km al Sur de Zorritos, Contralmirante Villar - Tumbes",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190379_20190820_214452.pdf
+,,-15.47,-70.21,247,4.3,,"9 km al Oeste-NO de Juliaca, San Roman - Puno.",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190380_20190822_054000.pdf
+,,-5.48,-78.87,23,3.8,II Jaen,"25 km al Norte-NO de Jaen, Jaen - Cajamarca",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190381_20190822_100507.pdf
+,,-17.32,-70.25,128,4.4,,"11 km al Norte-Este de Curibaya, Candarave - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190382_20190822_105905.pdf
+,,-13.41,-72.03,8,3.6,II-III Calca,"12 km al Sur-Oeste de Calca, Calca - Cusco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190383_20190822_114013.pdf
+,,-11.69,-77.07,88,4,"II  Yangas, Ancon, Lima","24 km al Oeste de Yangas, Lima - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190384_20190822_125143.pdf
+,,-10.73,-75.44,28,4.4,"II Villa Rica, Oxapampa","17 km al Oeste de Villa Rica, Oxapampa - Pasco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190385_20190823_113222.pdf
+,,-5.43,-77.29,11,4.6,II-III Nueva Cajamarca,"55 km al Norte de Nueva Cajamarca, Rioja - San Martin",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190386_20190823_211412.pdf
+,,-9.51,-75.66,20,4,II-III Codo Del Pozuzo,"28 km al Nor-Oeste de Codo del Pozuzo, Puerto Inca - Huanuco",
+,,-15.77,-71.82,11,3.9,"III Maca, Pinchollo","16 km al Sur-SO de Maca, Caylloma - Arequiupa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190388_20190825_111142.pdf
+,,-15.64,-71.79,9,3.4,"III Maca, Lari","3 km al Oeste de Maca, Caylloma -Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190389_20190826_121105.pdf
+,,-14.57,-76.25,19,3.9,II Ica,"79 km al Sur-Oeste de Ica, Ica - Ica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190390_20190826_124847.pdf
+,,-15.81,-71.73,10,3.4,II Maca,"19 km al Sur-SE de Maca, Caylloma - Arequipa",
+,,-8.43,-74.99,130,4.8,,"19 km al Este de Curimana, Padre Abad - Ucayali",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190392_20190827_000829.pdf
+,,-10.81,-73.93,115,4.9,II-III Atalaya,"21 km al Oeste-SO de Atalaya, Atalaya - Ucayali",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190393_20190827_022018.pdf
+,,-15.83,-71.74,9,3.7,"II-III Maca, Ichupampa","22 km  al Sur de Maca, Caylloma-Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190394_20190827_143256.pdf
+,,-15.8,-71.72,9,3.5,II-III Maca,"19 km al Sur-SE de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190395_20190827_193047.pdf
+,,-6.62,-79.63,72,3.8,II Chiclayo,"29 km al Nor-Este de Chiclayo, Chiclayo - Lambayeque",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190397_20190827_200528.pdf
+,,-9.84,-76.56,142,4.6,"II – III Huánuco, Dos de Mayo","38 Km al Oeste – NO de Huánuco, Huánuco - Huánuco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190397_20190829_042131.pdf
+,,-17.8,-69.75,167,4.3,,"46 km al Sur Este de Calana, Tacna - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190398_20190830_112530.pdf
+,,-8.73,-79.53,35,4.3,II-III Salaverry,"86 Km al Sur-Oeste Salaverry, Trujillo – La Libertad",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190399_20190830_135955.pdf
+,,-15.77,-71.71,12,3.6,II Maca,"16 Km al Sur-SE de Maca, Caylloma – Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190400_20190830_195309.pdf
+,,-15.62,-71.8,13,3.5,II Madrigal,"3 km al Sur-SE de Madrigal, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190401_20190831_033948.pdf
+,,-4.11,-80.93,20,3.6,II Mancora,"12 km al Este de Mancora, Talara - Piura",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190402_20190831_080548.pdf
+,,-15.58,-71.45,17,3.5,II Chivay,"17 km al Este-NE de Chivay, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190403_20190831_111723.pdf
+,,-15.61,-71.79,9,3.2,II Madrigal,"2 km al Sur Este de Madrigal, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190404_20190831_170813.pdf
+,,-15.79,-71.74,10,3.4,II Maca,"17 km al Sur de Maca, Caylloma - Arequipa",
+,,-12.5,-76.93,45,4.2,"II-III Chilca, Lima","20 km al Oeste de Chilca, Cañete - Lima",
+,,-15.79,-71.76,9,3.3,II Maca,"17 km al Sur de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190408_20190901_134403.pdf
+,,-16.9,-71.78,19,3.7,II Mollendo,"28 km al Este - NE de Mollendo, Islay - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190407_20190901_114957.pdf
+,,-18.57,-71.09,27,4.9,II Ilo,"106 km al Sur - SE de Ilo, Ilo - Moquegua",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190409_20190901_213213.pdf
+,,-14.19,-72.77,89,4.8,"II-III Chuquibambilla, Grau, Abancay","12 km al Sur-SO de Chuquibambilla, Grau - Apurimac",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190410_20190902_163528.pdf
+,,-15.81,-71.74,7,3.7,II-III Maca Pinchollo,"19 km al Sur-SE de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190411_20190902_214446.pdf
+,,-15.79,-71.74,9,3.4,"II Maca, Lari","17 km al Sur-SE de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190412_20190902_234854.pdf
+,,-8.9,-76.22,134,5,III-IV Aucayacu,"15km al Oeste-NO de Aucayacu, Leoncio Prado - Huánuco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190413_20190903_101013.pdf
+,,-15.62,-71.79,10,3.5,II Madrigal,"3 km al Sur-Este de Madrigal, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190414_20190903_151501.pdf
+,,-3.6,-80.9,12,3.6,II Zorritos,"28 km al Oeste –NO de Zorritos, Contralmirante Villar - Tumbes.",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190416_20190904_052126.pdf
+,,-18.64,-71.21,20,3.9,II Ilo,"112 km al Sur de Ilo, Ilo - Moquegua",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190416_20190904_144131.pdf
+,,-12.55,-74.96,19,3.3,II Conayca,"07 km al SE de Conayca, Huancavelica - Huancavelica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190417_20190904_234419.pdf
+,,-16.02,-73.07,15,3.7,II Caraveli,"42 km al SE de Caraveli, Caraveli - Arequipa",
+,,-11.8,-77.31,28,3.4,II Ancon,"16 km al O de Ancon, Lima - Lima",
+,,-17.72,-69.48,174,4.5,,"65 km al Este-SE de Tarata, Tarata - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190420_20190905_110903.pdf
+,,-9.26,-79.27,32,4.6,III Chimbote,"78 km al Oeste-SO de Chimbote, Santa - Ancash",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190421_20190905_135248.pdf
+,,-15.71,-72.13,10,3.5,II Huambo,"3 Km al Nor-Oeste de Huambo, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190422_20190905_223323.pdf
+,,-15.66,-71.75,10,3.4,II Maca,"3 km al Sur-Este de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190423_20190906_041244.pdf
+,,-15.79,-71.75,13,3.6,II Maca,"17 km al Sur de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190424_20190906_050434.pdf
+,,-16.92,-71.33,35,3.7,II Omate,"40 km al Oeste-SO de Omate, General Sanchez Cerro - Moquegua",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190425_20190906_054451.pdf
+,,-15.81,-71.72,10,3.4,II Maca,"19 km al Sur-SE de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190426_20190906_163226.pdf
+,,-6.39,-75.73,44,4.5,,"69 km al Sur-Este de Yurimaguas, Alto Amazonas - Loreto",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190427_20190907_190250.pdf
+,,-15.8,-71.75,9,3.4,II Maca,"18 km al Sur de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190428_20190908_095712.pdf
+,,-15.7,-71.97,11,3.6,II Cabanaconde,"9 Km al Sur de Cabanaconde, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190429_20190910_185140.pdf
+,,-18.09,-70.06,90,5,II Calana,"17 km al SE de Calana, Tacna - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190431_20190911_145231.pdf
+,,-18.53,-70.01,101,4.1,II Calana,"65 km al S de Calana, Tacna - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190431_20190912_095704.pdf
+,,-15.82,-71.74,9,3.5,II Maca,"20 km al Sur de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190432_20190915_134458.pdf
+,,-15.81,-71.74,10,3.7,II Maca,"19 km al Sur de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190433_20190915_140550.pdf
+,,-15.86,-71.77,7,3.4,II Maca,"24 km al Sur de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190434_20190915_145934.pdf
+,,-15.8,-71.73,10,3.5,II Maca,"19 km al Sur-SE de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190435_20190916_002156.pdf
+,,-3.84,-76.36,111,4.8,,"105 km al Sur de Pastaza, Alto Amazonas - Loreto",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190436_20190916_055418.pdf
+,,-15.81,-71.74,9,3.7,II-III Maca,"19 km al Sur de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190437_20190916_085310.pdf
+,,-15.76,-74.19,87,4.8,III Chala,"11 km al Norte-NE de Chala, Caraveli - Arequipa",
+,,-16.4,-71.91,111,4.1,II Arequipa,"30 km al Oeste-SO de Yura, Arequipa - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190439_20190920_053348.pdf
+,,-14.73,-73.72,93,4.8,III Pampamarca,"26 km al Sur-Oeste de Pampamarca, Parinacochas - Ayacucho",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190340_20190922_052823.pdf
+,,-15.81,-71.74,13,3.4,II Maca,"19 km al Sur de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190441_20190923_103449.pdf
+,,-12.39,-77.25,46,3.6,"II Callao, Lima",38 km al Sur-SO de Callao - Lima,https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190442_20190924_084034.pdf
+,,-15.81,-71.74,12,3.6,II Maca,"19 km al Sur de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190443_20190925_181107.pdf
+,,-9.98,-75.11,126,4.7,II Puerto Bermudez,"38 km al Norte-NO de Puerto Bermudez, Oxapampa - Pasco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190444_20190925_200854.pdf
+,,-15.79,-71.74,11,3.4,II Maca,"17 km al Sur de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190445_20190926_004010.pdf
+,,-8.7,-77.35,17,3.6,II Piscobamba,"17 km al Norte de Piscobamba, Ancash",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190446_20190926_200921.pdf
+,,-8.22,-74.42,164,5.1,"III Pucallpa, II Huánuco",20 km al Nor-Este de Pucallpa-Ucayalli,
+,,-9.01,-75.09,26,4.3,,44 km al Norte-NO de Puerto Inca-Huanuco,
+,,-15.42,-72.18,120,4.3,,"14 km al Nor-Este de Chachas, Castilla - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190449_20190927_135744.pdf
+,,-15.81,-71.74,12,3.5,II Maca,"19 km al Sur de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190450_20190928_010541.pdf
+,,-13.66,-76.65,25,4,II Pisco,"49 km al Oeste de Pisco, Pisco - Ica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190451_20190928_050514.pdf
+,,-15.8,-71.72,9,3.4,II Maca,"18 km al Sur-SE de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190452_20190928_063310.pdf
+,,-15.32,-72.86,13,3.6,II Cotahuasi,"13 km al Sur-SE de Cotahuasi, La Unión - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190453_20190928_100253.pdf
+,,-17.99,-71.47,30,3.9,II Ilo,"41 km al Sur-SO de Ilo, Ilo - Moquegua",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190454_20190928_111138.pdf
+,,-15.63,-71.84,9,3.3,II Pinchollo,"3 km al Oeste-NO de Pinchollo, Caylloma - Arequipa",
+,,-14.06,-76.09,55,4.5,II-III Ica,"40 km al Oeste de Ica, Ica - Ica",
+,,-9.32,-75.18,29,4.2,II Puerto Inca,"25 km al Oeste-NO de Puerto Inca, Puerto Inca - Huanuco",
+,,-5.74,-80.93,34,4.2,II Sechura,"24 km al Sur-SO de Sechura, Sechura - Piura",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190458_20191002_214257.pdf
+,,-12.69,-76.84,59,3.7,II Mala,"23 km al Oeste de Mala, Cañete - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190459_20191003_071501.pdf
+,,-18.65,-71.19,20,4.9,"III Tacna, Ilo","122 km al SO de Tacna, Tacna - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190460_20191004_040227.pdf
+,,-5.4,-80.88,32,3.5,II Sechura,"18 km al Norte-NO de Sechura, Sechura - Piura",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190461_20191006_050118.pdf
+,,-14.32,-75.81,66,3.9,II Ica,"30 km al Sur SO de Ica, Ica - Ica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190462_20191007_075944.pdf
+,,-4.96,-81.17,28,4.2,II-III Paita,14 km al Norte-NO de Paita - Piura,https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190463_20191007_150806.pdf
+,,-12.27,-77.13,53,3.6,"II Callao, Lima","23 km al Sur de Callao, Callao - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190464_20191008_052557.pdf
+,,-18.15,-69.71,131,4.9,"II Calana, Tacna","51 km al SE de Calana, Tacna - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190465_20191008_061805.pdf
+,,-9.12,-75.8,30,4,"II Aguaytia, Tingo Maria","34 km al Oeste-SO de Aguaytia, Padre Abad - Ucayali",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190466_20191009_043341.pdf
+,,-16.15,-73.41,51,4.3,II-III Atico,"23 km al Este-NE de Atico, Caraveli - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190467_20191010_172642.pdf
+,,-15.65,-69.91,244,4.1,,"20 km al Oeste de Amantani, Puno - Puno",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190468_20191012_231758.pdf
+,,-15.79,-71.74,12,3.5,II Maca,"17 km Sur-SE de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190469_20191013_035905.pdf
+,,-5.57,-78.92,20,3.6,II Jaen,"19 km al Nor-Oeste de Jaen, Jaen - Cajamarca",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190470_20191013_123949.pdf
+,,-16.4,-72.55,69,3.9,II Camaná,"30 km al NE de Camaná, Camaná - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190471_20191014_083452.pdf
+,,-11.45,-76.69,23,3.7,II Canta,"10 km al Oeste de Canta, Canta - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190472_20191016_130418.pdf
+,,-10.27,-78.87,20,4.1,II Huarmey,"82 km al Oeste-SO de Huarmey, Huarmey - Ancash",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190473_20191018_084936.pdf
+,,-17.74,-69.57,172,4.4,,"58 km al Este-SE de Tarata, Tarata - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190474_20191019_075710.pdf
+,,-7.19,-80.83,19,4.5,II Pimentel,"107 km al Oeste-SO de Pimentel, Chiclayo - Lambayeque",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190475_20191019_091319.pdf
+,,-15.57,-73.38,9,4.1,II Caravelí,"22 km al Norte de Caravelí, Caravelí – Arequipa.",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190476_20191020_063334.pdf
+,,-3.93,-80.54,32,4,II Zorritos,"33 km al Sur-SE de Zorritos, Contralmirante Villar - Tumbes",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190477_20191020_215858.pdf
+,,-15.54,-74.93,49,4.9,IV Lomas; III-IV Acarí,"10 km al Oeste - NO de Lomas, Caravelí - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190478_20191021_205037.pdf
+,,-3.12,-80.09,50,4.7,II-III Zarumilla,47 km al Norte-NE de Zarumilla-Tumbes.,https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190480_20191022_161535.pdf
+,,-7.93,-78.16,13,3.7,II Huamachuco,"18 km al Sur-Oeste de Huamachuco, Sanchez Carrión - La Libertad",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190480_20191025_021043.pdf
+,,-11.86,-77.62,39,4.5,"III-IV Callao, Lima","57 km al Oeste-NO de Callao, Callao - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190481_20191025_023557.pdf
+,,-4.17,-79.72,20,3.7,II Ayabaca,"53 km al Norte de Ayabaca, Ayabaca - Piura",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190482_20191026_043941.pdf
+,,-14.09,-74.6,110,4.4,,"34 km al Oeste-SO de Huanca Sancos, Sancos - Ayacucho",
+,,-13.71,-74.05,17,3.4,II Huancapi,"5 km al Norte-NE de Huancapi, Fajardo - Ayacucho",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190484_20191028_172717.pdf
+,,-15.63,-71.84,9,3.4,II Pinchollo,"3 km al Oeste-NO de Pinchollo, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190485_20191030_063608.pdf
+,,-15.79,-71.72,12,3.4,II Maca,"18 km al Sur-SE de Maca, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190486_20191031_222546.pdf
+,,-17.94,-69.86,134,4.3,II Calana,"25 km al E de Calana,  Tacna - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190487_20191103_182920.pdf
+,,-12.66,-76.9,36,3.8,II Chilca,"24 km al SO de Chilca, Cañete - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190488_20191105_185544.pdf
+,,-12.42,-77.15,38,3.6,"II Callao, Lima","40 km al Sur de Callao, Callao - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190489_20191107_171842.pdf
+,,-16.36,-72.82,15,3.7,"II Ocoña, Camaná - Arequipa",30 km al Este-NE de Camaná- Arequipa,https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190490_20191107_182533.pdf
+,,-3.37,-80.78,46,4.1,II Zorritos,"36 km al Norte – NO de Zorritos, Contralmirante Villar - Tumbes",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190491_20191109_133716.pdf
+,,-7.2,-75.98,127,5.4,"III Picota, Bellavista, Juanjuí, Lamas","65 km al Este-SE de Picota, Picota - San Martín",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190492_20191110_161422.pdf
+,,-8.87,-74.44,152,4.4,,"56 km  al Sur de Pucallpa, Coronel Portillo - Ucayali",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190493_20191112_011729.pdf
+,,-9.49,-75.18,126,4.3,,"27 km al Oeste-SO de Puerto Inca, Puerto Inca - Huánuco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190494_20191112_055352.pdf
+,,-11.82,-77.47,62,4.6,III Ancón,"33 km al Oeste de Ancón, Lima - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190495_20191112_214732.pdf
+,,-15.4,-70.59,213,5.1,,"24 km al Oeste-SO de Lampa, Lampa - Puno",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190496_20191113_000917.pdf
+,,-8.63,-74.74,150,4.9,"III Pucallpa, Curimaná","37 km al Sur-Oeste de Pucallpa, Coronel Portillo - Ucayali",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190497_20191114_205227.pdf
+,,-17.11,-72,34,4.3,II-III Mollendo,"9 km al Sur de Mollendo, Islay - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190498_20191115_140717.pdf
+,,-15.77,-71.67,10,3.4,II Chivay,"17 km al Sur-SO de Chivay, Caylloma - Arequipa",
+,,-9.74,-78.87,30,4.3,"II-III Samanco, Chimbote","69 km al Sur-O de Samanco, Santa - Ancash",
+,,-15.68,-71.9,10,3.7,"II-III Cabanaconde, Maca, Madrigal","11 km al Sur-Este de Cabanaconde, Caylloma - Arequipa",
+,,-12.79,-75.4,10,3.9,II Huancavelica,"47 km al Oeste de Huancavelica, Huancavelica - Huancavelica",
+,,-16.25,-73.74,43,4.2,II-III Atico,"14 km al Oeste-SO de Atico, Caraveli - Arequipa",
+,,-5.64,-77.08,41,4.5,II-III Nueva Cajamarca,"41 km al Nor-Este de Nueva Cajamarca, Rioja - San Martin",
+,,-15.65,-71.55,17,3.6,II Chivay,"06 km al Este-SE de Chivay, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190505_20191122_175755.pdf
+,,-15.64,-71.55,18,3.5,II Chivay,"6 km al Este de Chivay, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190506_20191124_093505.pdf
+,,-12.57,-75.1,14,3.7,II Conayca,"11 km al Oeste-SO de Conayca, Huancavelica - Huancavelica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190507_20191127_225956.pdf
+,,-13.8,-76.86,11,4.3,II Pisco,"72 km al Oeste de Pisco, Pisco- Ica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190508_20191129_042920.pdf
+,,-15.84,-72.14,138,4.2,,"12 km al Sur-SO de Huambo, Caylloma - Arequipa",
+,,-17.23,-71.02,26,3.8,II Moquegua,"10 km al Oeste SO de Moquegua, Mariscal Nieto - Moquegua",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190511_20191201_171840.pdf
+,,-18.09,-70.07,126,4,,"17 km al Sur-Este de Calana, Tacna - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190511_20191202_025103.pdf
+,,-15.63,-71.58,10,3.3,II Chivay,"3 km al Este-NE de Chivay, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190512_20191202_050517.pdf
+,,-14.69,-76.26,35,4.2,,"90 km al Sur-Oeste de Ica, Ica - Ica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190513_20191203_003358.pdf
+,,-13.49,-70.49,16,3.7,II San Gabán,"5 km al SO de San Gabán, Carabaya - Puno",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190514_20191203_062044.pdf
+,,-15.79,-73.03,107,4.7,II Caravelí,"36 km al Este de Caravelí, Caravelí - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190515_20191203_071653.pdf
+,,-18.54,-70.98,19,5.7,IV Tacna,"106 km al Sur-SO de Locumba, Jorge Basadre - Tacna",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190516_20191203_084633.pdf
+,,-10.64,-75.46,9,4,II Oxapampa,"10 km al Sur-Oeste de Oxapampa, Oxapampa - Pasco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190518_20191203_203638.pdf
+,,-5.15,-76.66,25,4.2,,"103 km Nor-Oeste  de Yurimaguas, Alto Amazonas - Loreto",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190517_20191203_190706.pdf
+,,-13.83,-76.29,71,5.3,"IV Tambo de Mora, Chincha Alta, Pisco","42 km al Sur-SO de Tambo de Mora, Chincha - Ica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190519_20191205_032319.pdf
+,,-12.11,-74.82,13,3.9,II Campo Armiño,"32 Km al Nor-Oeste de Campo Armiño, Tayacaja - Huancavelica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190520_20191205_041341.pdf
+,,-12.57,-75.32,123,4.3,,"27 km al Sur de Huasicancha, Huancayo - Junín",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190521_20191205_182510.pdf
+,,-17.52,-69.66,172,4.1,,"39 km al Sur SE de Capaso, El Collao - Puno",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190522_20191206_000738.pdf
+,,-12.51,-76.97,33,3.6,II Chilca,"25 km al Oeste de Chilca , Cañete - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190523_20191206_062803.pdf
+,,-5.37,-77.46,19,4.1,II Nueva Cajamarca,"65 km al Norte-NO de Nuva Cajamarca, Rioja - San Martin",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190524_20191206_221438.pdf
+,,-16.1,-74.07,21,3.7,II Chala,"33 km al Sur-Este de Chala, Caraveli - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190525_20191207_121336.pdf
+,,-9.78,-75.64,122,4.7,II Huánuco,"23 km al Oeste-SO de Codo de Pozuzo, Puerto Inca - Huánuco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190526_20191208_022447.pdf
+,,-5.13,-77.34,123,4.4,,"85 Km al Sur-Este de Santa Maria de Nieva, Condorcanqui - Amazonas",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190527_20191208_232310.pdf
+,,-15.6,-71.6,151,4.8,,"4 km al Norte de Chivay, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190528_20191209_154345.pdf
+,,-3.18,-80.96,49,4.2,,"64 km al NO de Zorritos, Contralmirante Villar - Tumbes",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190529_20191210_015955.pdf
+,,-2.46,-77.05,134,4.5,,"88 km al Nor-Oeste de Pastaza, Alto Amazonas - Loreto",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190530_20191211_005037.pdf
+,,-17.85,-71.87,34,4,,"61 km al Oeste SO de Ilo, Ilo - Moquegua",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190531_20191211_032632.pdf
+,,-13.98,-72.52,74,4.1,,"18 km al Este-NE de Curpahuasi, Grau - Apurimac",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190531_20191212_171306.pdf
+,,-15.57,-71.57,12,3.6,II Chivay,"8 km al Norte-NE de Chivay, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190533_20191214_052416.pdf
+,,-15.59,-71.58,11,3.5,II Chivay,"6 km al Norte-NE de Chivay, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190534_20191214_065337.pdf
+,,-15.58,-71.6,9,3.3,II Chivay,"07 km al Norte de Chivay, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190535_20191215_001801.pdf
+,,-15.58,-71.55,10,3.4,II Chivay,"8 km al NE de Chivay, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190536_20191215_044608.pdf
+,,-12.7,-76.87,39,3.7,II Chilca,"25 km al SO de Chilca, Cañete - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190537_20191215_070801.pdf
+,,-14.31,-72.26,99,4.9,II Haquira,"13 km al Sur-Oeste de Haquira, Cotabambas - Apurimac",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190538_20191215_192337.pdf
+,,-6.22,-75.93,43,4.2,"II Pampa Hermosa, Yurimaguas","41 km al Sur-SE de Yurimaguas, Alto Amazonas - Loreto",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190539_20191216_050736.pdf
+,,-14.8,-73.63,112,4,,"29 km al Nor-Este de Coracora, Parinacochas - Ayacucho",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190540_20191216_180723.pdf
+,,-15.71,-71.6,12,3.6,II Chivay,"8 km al Sur de Chivay, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190541_20191217_190439.pdf
+,,-9.45,-75.96,11,3.5,II Tingo Maria,"17 km al Sur-SE de Tingo María, Leoncio Prado - Huánuco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190542_20191217_194915.pdf
+,,-15.27,-72.31,135,4.3,,"26 km al Norte-NE de Andagua, Castilla - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190543_20191218_122457.pdf
+,,-13.78,-76.3,59,4.3,"II Pisco, Chincha, Ica","13 km al SO de Pisco, Pisco - Ica",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190544_20191219_135536.pdf
+,,-9.95,-75.66,10,3.6,II Pozuzo,"17 km al Nor-Oeste de Pozuzo, OXAPAMPA - PASCO",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190546_20191219_181327.pdf
+,,-15.69,-71.98,12,3.3,II Cabanaconde,"7 km al Sur de Cabanaconde, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190545_20191219_171753.pdf
+,,-5.72,-77.74,16,3.7,II Jumbilla,"22 km al Norte NE de Jumbilla, Bongora - Amazonas",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190547_20191220_012334.pdf
+,,-8.86,-75.62,35,3.8,II Aguaytia,"23 km al Norte-NO de Aguaytia, Padre Abad - Ucayali",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190548_20191221_040445.pdf
+,,-15.69,-71.99,15,3.4,II Cabanaconde,"7 km al Sur de Cabanaconde, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190549_20191221_100001.pdf
+,,-7.1,-80.91,38,4.3,II Pimentel,"111 km al Oeste-SO de Pimentel, Chiclayo - Lambayeque",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190551_20191222_130205.pdf
+,,-7.06,-78.03,16,3.9,II Bolivar,"38 km al O de Bolivar, Bolivar - La Libertad",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190550_20191221_162824.pdf
+,,-10.92,-75.31,119,3.9,,"20 km al Sur de Villa Rica, Oxapampa - Pasco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190552_20191224_184432.pdf
+,,-15.69,-71.92,10,3.6,II-III Cabanaconde,"10 km al Sur-Este de Cabanaconde, Caylloma - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190553_20191225_063246.pdf
+,,-12.57,-76.88,51,4,II Chilca,"16 km al Oeste - SO de Chilca, Cañete - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190554_20191225_225332.pdf
+,,-16.01,-72.8,92,4.1,,"25 km al SO de Chuquibamba, Condesuyos - Arequipa",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190555_20191226_081812.pdf
+,,-10.8,-78.64,39,4.7,II Barranca,"96 km al Oeste de Barranca, Barranca - Lima",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190556_20191228_055658.pdf
+,,-11.28,-74.56,18,3.9,II Satipo,"9 km al Este-SE de Satipo, Satipo - Junin",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190557_20191228_215908.pdf
+,,-14.8,-72.06,112,4.3,,"39 km al Sur de Santo Tomás, Chumbivilcas - Cusco",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190558_20191229_001110.pdf
+,,-10.87,-74.91,10,4.1,II - III La Merced,"47 km al NE de la Merced, Chanchamayo - Junín",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190559_20191229_134526.pdf
+,,-10.99,-74.65,112,4,,"29 km al Norte de Satipo, Satipo - Junín",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190560_20191230_003832.pdf
+,,-8.37,-76.22,140,4.5,,"28 km al Este-NE de Uchiza, Tocache - San Martin",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190561_20191230_061650.pdf
+,,-7.01,-80.51,47,4.5,"II - III Pimentel, Chiclayo","67 km al Oeste-SO de Pimentel, Chiclayo - Lambayeque",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190562_20191231_114840.pdf
+,,-10.8,-79.79,36,4.5,,"197 km al Oeste-SO de Huarmey, Huarmey - Ancash.",https://www.igp.gob.pe/servicios/api-acelerometrica/ran/file/20190563_20191231_232008.pdf
